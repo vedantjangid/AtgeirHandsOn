@@ -1,0 +1,12 @@
+department_id,department_name,location_id
+1,Administration,1700
+2,Marketing,1800
+3,Purchasing,1700
+5,Shipping,1500
+6,IT,1400
+7,Public Relations,2700
+9,Executive,1700
+10,Finance,1700
+11,Accounting,1700
+12,Operation,1700
+13,Processing,1700

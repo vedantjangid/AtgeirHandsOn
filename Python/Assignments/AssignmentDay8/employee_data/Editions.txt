@@ -1,0 +1,32 @@
+Standard Edition:
+early access to weekly new releases
+SOC 2 Type II certification
+Federated authentication and SSO
+OAuth
+Network policies
+Automatic encryption of all data
+Support for multi-factor authentication.
+Object-level access control.
+Standard Time Travel (up to 1 day)
+Disaster recovery of modified/deleted data (for 7 days beyond Time Travel) through Fail-safe.
+
+Enterprise edition
+Extended Time Travel (up to 90 days).
+Periodic rekeying of encrypted data for increased protection.
+Column-level Security to apply masking policies to columns in tables or views.
+Row-level Security to apply row access policies to determine which rows are visible in a query result.
+Object Tagging to apply tags to Snowflake objects to facilitate tracking sensitive data and resource usage.
+Support for classifying potentially sensitive data using classification.
+Audit the user access history through the Account Usage ACCESS_HISTORY view.
+
+Business Critical Edition
+Customer-managed encryption keys through Tri-Secret Secure.
+Support for private connectivity to the Snowflake service using AWS PrivateLink, Azure Private Link, or Google Cloud Private Service Connect.
+Support for private connectivity to Snowflake internal stages using AWS PrivateLink and Azure Private Link.
+Support for PHI data (in accordance with HIPAA and HITRUST CSF regulations).
+Support for PCI DSS.
+Support for public sector workloads that meet U.S. Federal and state government requirements, such as FedRAMP and ITAR.
+Support for IRAP - Protected (P) data (in specified Asia Pacific regions).
+
+VPC
+Dedicated metadata store and pool of compute resources (used in virtual warehouses).
